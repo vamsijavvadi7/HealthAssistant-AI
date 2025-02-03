@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Project Landing Page Picture](https://github.com/vamsijavvadi7/HealthAssistant-AI/blob/master/Screenshot%20(1).png)
 
 ## Getting Started
 
